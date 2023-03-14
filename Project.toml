@@ -3,6 +3,9 @@ uuid = "49f8d0d8-a22d-48ea-8ddc-1b90e9f52b6b"
 authors = ["jonathan-durbin <jongdurbin@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
 [compat]
 julia = "1"
 
