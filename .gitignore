@@ -1,1 +1,5 @@
 /Manifest.toml
+lss.sh
+make-docs.sh
+docs/build/
+docs/src/assets/logo.webp
