@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#CCPipelines.jl","page":"CCPipelines.jl","title":"CCPipelines.jl","text":"","category":"section"},{"location":"","page":"CCPipelines.jl","title":"CCPipelines.jl","text":"A simple package to aid in setting up data pipelines for my work at Cayuga Centers.","category":"page"},{"location":"","page":"CCPipelines.jl","title":"CCPipelines.jl","text":"a(b)\na(b::Int)","category":"page"},{"location":"#CCPipelines.a-Tuple{Any}","page":"CCPipelines.jl","title":"CCPipelines.a","text":"a(b)\n\nReturns b plus 1.\n\n\n\n\n\n","category":"method"},{"location":"#CCPipelines.a-Tuple{Int64}","page":"CCPipelines.jl","title":"CCPipelines.a","text":"a(b::Int)\n\nWhen b is an Int, returns b plus 2.\n\n\n\n\n\n","category":"method"}]
+}
